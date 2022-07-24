@@ -1,13 +1,9 @@
 
 **Mount UBS Drive for Proxmox Backup**
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
 YouTube Mount UBS Drive for Proxmox Backup 🔗 https://youtu.be/lZjMxdBPH7M
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-SUPPORT MY WORK - Everything Helps Thanks YouTube 🔗 https://YouTube.GetMeTheGeek.com
-Buy Me a Coffee ☕ https://www.buymeacoffee.com/getmethegeek
-Hire US 🔗 https://getmethegeek.com
-Digital Ocean referral 🔗 https://tiny.cc/plxdigitalocean
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+
 
 **Find the USB Drive**
 
